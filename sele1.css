@@ -1,0 +1,17 @@
+#maintopic{
+    color:blue;
+}
+*{
+    text-align: center;
+}
+h1,h3,h5{
+    font-family: Georgia;
+}
+.parah{
+    color:white;
+    background-color: cornflowerblue;
+}
+div button{
+     color:azure;
+     background-color:purple ;
+}
