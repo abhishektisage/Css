@@ -1,0 +1,20 @@
+*{
+    color :white;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+#amazon{
+
+    font-size:  25px;
+    color:#f08804;
+
+}
+#search{
+    color:#f08804;
+
+}
+a{
+    margin-right: 200px;
+}
