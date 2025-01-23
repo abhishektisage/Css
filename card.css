@@ -1,0 +1,19 @@
+.card{
+    height:200px;
+    width:200px;
+    display: inline-block;
+    border: 2px solid black;
+    margin:10px;
+    box-shadow:2px 4px 10px black;
+    transition:1s;
+
+}
+img{
+    width:100%;
+}
+.des{
+    background-color: aquamarine;
+}
+.card:hover{
+    box-shadow:3px 6px 18px black
+}
