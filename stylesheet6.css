@@ -1,0 +1,17 @@
+#box1{
+    height:200px;
+    width:150px;
+    background-color: rgb(6, 255, 255);
+    position: relative;
+    background-image: url("air.jpg");
+    background-size:cover;
+}
+#box2{
+    height:150px;
+    width:150px;
+    background-color: aquamarine;
+    position:fixed;
+    right:20px;
+    background-image: url("nature.jpg");
+    background-size:cover
+}
